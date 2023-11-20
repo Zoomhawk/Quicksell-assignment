@@ -5,9 +5,11 @@
     gap: 10px;
     border: 1px solid silver;
     background-color: whitesmoke;
-    border-radius: 10px;
+    border-radius: 5px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
 }
+
 
 .cardHeading2 {
     margin: 0;
@@ -53,7 +55,7 @@ img {
     width: 100%;
     padding: 10px 20px;
     justify-content: space-between;
-    gap: 5px;
+    gap: 10px;
 }
 
 .tag {
@@ -63,3 +65,8 @@ img {
     border-radius: 5px;
     border: 1px solid silver;
 }
+
+
+/* .container:hover{
+    transform: scale(1.5);
+} */

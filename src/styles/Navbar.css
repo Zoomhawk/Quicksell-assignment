@@ -5,12 +5,12 @@
 
 .navbarButton {
     position: relative;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.306);
 }
 
 .groupButton {
     z-index: 10;
-    border: 1px solid gray;
+    border: 1px solid rgb(84, 78, 78);
     box-shadow: 2px 2px silver;
     border-radius: 5px;
     width: 110px;

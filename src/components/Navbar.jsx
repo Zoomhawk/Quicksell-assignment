@@ -67,7 +67,7 @@ const Navbar = () => {
           <>
             <div className="dropDown">
               <div className="group">
-                <span style={{ color: "grey" }}>Grouping</span>
+                <span style={{ color: "grey" }}>Sorting</span>
                 <select
                   value={groups}
                   onChange={(e) => handleGroups(e, true)}
@@ -81,7 +81,7 @@ const Navbar = () => {
               </div>
 
               <div className="group">
-                <span style={{ color: "grey" }}>Ordering</span>
+                <span style={{ color: "white" }}>Ordering</span>
                 <select
                   value={order}
                   onChange={(e) => handleGroups(e, false)}
